@@ -1,0 +1,26 @@
+body{
+    background-color:gainsboro;
+    border: 5 px;
+}
+p{
+    color:brown;
+}
+
+div{
+    background-color: gray ;
+}
+#mainText{
+    color: blue;
+}
+
+.mainLetter{
+    color: darkmagenta;
+    font-family: cursive;
+}
+.StyleDiv{
+    background-color: whitesmoke;
+}
+#box{
+    background-color: blue;
+}
+
